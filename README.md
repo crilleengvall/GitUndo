@@ -20,4 +20,6 @@ This will undo a pushed merge. run a git log to get the commit hash.
 
 ##Support
 Support this open source repo by using flattr
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ChristianEngvall&url=https://github.com/crilleengvall/GitUndo&title=GitUndo&language=&tags=github&category=software) 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ChristianEngvall&url=https://github.com/crilleengvall/GitUndo&title=GitUndo&language=&tags=github&category=software)     
+
+![GitUndo logo](http://www.christianengvall.se/wp-content/uploads/2016/04/git-undo-1024x500.png)
