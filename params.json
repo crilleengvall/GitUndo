@@ -1,0 +1,6 @@
+{
+  "name": "Gitundo",
+  "tagline": "Git extension with easy to remember undo commands",
+  "body": "#### GitUndo\r\nGit extension with easy to remember undo commands\r\n\r\n### Installation\r\nCopy git-undo file to /usr/local/bin with terminal:    \r\n    `cp <path-to-file>/git-undo /usr/local/bin/`    \r\nnow the extension is ready to use\r\n\r\n### Usage\r\nThis extension currently has three new commands.\r\n\r\n`git undo commit`    \r\nThis will undo the latest commit, but the changes in that commit will be left staged.\r\n\r\n`git undo stash-apply`    \r\nif you've done a git stash apply, but didn't mean to you can use this command to undo the apply.\r\n\r\n`git undo pushed-merge <merge-commit-hash>`    \r\nThis will undo a pushed merge. run a git log to get the commit hash.     ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
