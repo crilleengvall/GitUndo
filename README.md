@@ -6,9 +6,21 @@ Support this open source repo by using flattr
 
 
 ## Installation
+You need to put the file git-undo in the correct path. After that is done, the extension is ready to use.
+
+Start by [downloading the repo](https://github.com/crilleengvall/GitUndo/archive/master.zip)
+
+
+### Mac/Linux
 Copy git-undo file to /usr/local/bin with terminal:    
     `cp <path-to-file>/git-undo /usr/local/bin/`    
-now the extension is ready to use
+
+### Windows
+Copy the git-undo file to your git installation folder:
+`C:\Program Files\Git\mingw64\libexec\git-core`    
+or     
+`C:\Program Files (x86)\Git\mingw64\libexec\git-core`
+
 
 ## Usage
 This extension currently has three new commands.
